@@ -1,0 +1,1 @@
+export const isObject = data => (data && typeof(data) === 'object')
